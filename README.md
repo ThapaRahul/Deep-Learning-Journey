@@ -5,4 +5,15 @@ This Repo is meant for enthusaist in deep learning who wants to explore the fiel
 
 ### Week 1
 
-Paper 1: 
+Paper 1:
+
+A walk down of the original paper:
+
+https://www.youtube.com/watch?v=oq6Z76Gl0ho&fbclid=IwAR3PRRjftjkfpTK_DvNA6l0VZ_40vGknDfssiFv-d4qJ674D9rCbyt2gWL8
+
+Two very good video on what back propagation actually is. Understanding intuitively:
+
+https://www.youtube.com/watch?v=Ilg3gGewQ5U&fbclid=IwAR1vbfFjZR6tJolK-0_OX4UpqmmjUwaTkA6BZ3QB2n9-rcPtulRk75kwugs
+
+
+https://www.youtube.com/watch?v=tIeHLnjs5U8&fbclid=IwAR1eazMuzQSc1Ca3kctCGd0f-LZstBtPfqqQLUE2coFV-WqYJTduxfNnNgo
