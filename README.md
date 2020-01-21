@@ -5,7 +5,7 @@ This Repo is meant for enthusaist in deep learning who wants to explore the fiel
 
 ### Week 1
 
-Paper 1:
+Paper 1: Learning representations by back-propagating errors
 
 A walk down of the original paper:
 
