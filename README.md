@@ -11,7 +11,7 @@ A walk down of the original paper:
 
 https://www.youtube.com/watch?v=oq6Z76Gl0ho&fbclid=IwAR3PRRjftjkfpTK_DvNA6l0VZ_40vGknDfssiFv-d4qJ674D9rCbyt2gWL8
 
-Two very good video on what back propagation actually is. Understanding intuitively:
+Two very good videos on what back propagation actually is. Understanding intuitively:
 
 https://www.youtube.com/watch?v=Ilg3gGewQ5U&fbclid=IwAR1vbfFjZR6tJolK-0_OX4UpqmmjUwaTkA6BZ3QB2n9-rcPtulRk75kwugs
 
