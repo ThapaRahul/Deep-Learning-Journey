@@ -29,9 +29,9 @@ https://www.youtube.com/watch?v=4qVRBYAdLAo
 
 Dive into more complex topics such as Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN):
 
-https://www.youtube.com/watch?v=x_VrgWTKkiM
+1. CNN: https://www.youtube.com/watch?v=x_VrgWTKkiM
 
-https://www.youtube.com/watch?v=UNmqTiOnRfg
+2. RNN: https://www.youtube.com/watch?v=UNmqTiOnRfg
 
 Also, a blog post on RNN:
 
