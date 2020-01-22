@@ -7,6 +7,8 @@ Every week the contributors of this repo shall be posting two papers from the fi
 
 ### Week 1
 
+In this week, we will look into an original paper on back propagation and also a survey paper on Deep Learning. We assume that at this point, you do not have a very deep understanding of these topics. Therefore, these two papers should get you started in tackling other complex topics to come. Depending on how much backgorund you have, you can skim through the materials in this week. If you are very new to the topic, please follow the links below to get an intuitive understanding of the concepts first before diving into paper which is full of technical terms and mathematical equations without full descriptions. 
+
 #### Paper 1: Learning representations by back-propagating errors
 A walk down of the original paper: 
 
