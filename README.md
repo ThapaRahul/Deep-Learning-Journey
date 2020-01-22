@@ -16,3 +16,21 @@ Two very good videos on what back propagation actually is. Understanding intuiti
 
 #### Paper 2: Deep Learning
 Link to the paper: https://www.ncbi.nlm.nih.gov/pubmed/26017442
+
+If you want to get a very basic understanding of neural network first:
+
+https://www.youtube.com/watch?v=aircAruvnKk
+
+Understand what Supervised Learning is below:
+
+https://www.youtube.com/watch?v=4qVRBYAdLAo
+
+Dive into more complex topics such as Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN):
+
+https://www.youtube.com/watch?v=x_VrgWTKkiM
+
+https://www.youtube.com/watch?v=UNmqTiOnRfg
+
+Also, a blog post on RNN:
+
+https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
