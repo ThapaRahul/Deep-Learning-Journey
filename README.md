@@ -45,6 +45,6 @@ CNN
 
 RNN
 
-1. RNN: https://www.youtube.com/watch?v=UNmqTiOnRfg
+1. https://www.youtube.com/watch?v=UNmqTiOnRfg
 
 2. https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
