@@ -2,7 +2,7 @@
 
 This Repo is meant for enthusaists in deep learning who want to explore the field via scientific papers and literature. This repo is not intended to be a guide for practical application of Deep Learning practices. However, through the literature and discussions included in this repo (posted in a progressive manner every week), anyone interested in deep learning shall be able to gain a better understanding of concepts and theory which will definitely lead towards successful implementations of deep learning systems.
 
-Every week the contributors of this repo shall be posting two papers from the field with their summary, confusions and discussion questions. We recommend going through those reviews after you have read the paper once and try to write your own reviews. 
+Every week the contributors of this repo shall be posting papers from the field with their summary, confusions and discussion questions. The papers as well as the summaries can be found in relevant folders. We recommend going through those reviews after you have read the paper once and try to write your own reviews. 
 
 Also, if you are new to reading technical/academic papers, please follow the link below. 
 
@@ -48,3 +48,19 @@ RNN
 1. https://www.youtube.com/watch?v=UNmqTiOnRfg
 
 2. https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
+
+### Week 2
+
+This week we read 3 papers about image recognition using CNN. For the Paper 2, we are only focusing on the second section of the paper and writing a single review using Paper 1 and 2. 
+
+#### Paper 1: Handwritten Zip Code Recognition with Multilayer Networks
+
+#### Paper 2: Gradient-Based Learning Applied to Document Recognition
+
+#### Paper 3: ImageNet Classification with Deep Convolutional Neural Networks
+
+Helpful YouTube links:
+
+1. https://www.youtube.com/watch?v=2-Ol7ZB0MmU
+2. https://www.youtube.com/watch?v=H-HVZJ7kGI0
+
