@@ -51,7 +51,8 @@ RNN
 
 ### Week 2
 
-This week we read 3 papers about image recognition using CNN. For the Paper 2, we are only focusing on the second section of the paper and writing a single review using Paper 1 and 2. 
+This week we read 3 papers about image recognition using CNN. One of the main reasons we use RNN for image recognition tasks instead of depp neural netwroks is the high number of pixel values in images. For instance, a 400*400 pixel image has 160000 pixels and if we have 500 neurons in the first input layer, we end up having a total of 80 million connections only for the first layer. CNNs help solve this problem using partially connected layers as we will discover in the papers below.
+We are writing two reviews. One for the Paper 3 and a single review for Paper 1 and 2 but by only focusing on the Section 2 of Paper 2.
 
 #### Paper 1: Handwritten Zip Code Recognition with Multilayer Networks
 
