@@ -64,4 +64,12 @@ Helpful YouTube links:
 
 1. https://www.youtube.com/watch?v=2-Ol7ZB0MmU
 2. https://www.youtube.com/watch?v=H-HVZJ7kGI0
+3. https://www.youtube.com/watch?v=YRhxdVk_sIs
+4. https://www.youtube.com/watch?v=umGJ30-15_A
+
+Blog posts:
+
+1. https://medium.com/dataseries/basic-overview-of-convolutional-neural-network-cnn-4fcc7dbb4f17
+2. http://cs231n.github.io/convolutional-networks/
+3. https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
