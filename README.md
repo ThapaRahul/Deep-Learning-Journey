@@ -73,3 +73,12 @@ Blog posts:
 2. http://cs231n.github.io/convolutional-networks/
 3. https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
+
+### Week 3
+
+This week we will mostly be focusing on 2 relatively new papers on convolutional neural network. However, we have also included some supplementaly readings for those who wants to understand how it all came into existence. Some of these old papers gave an indepth understanding of the inspiration behind CNN and its analogy with human brain cells such as simple cells and complex cells. 
+
+The first paper we are going to be focusing on is on ResNet, which is relatively new concept. The authors introduce a technique of training deep neural network by introducing the concept of identity mapping and residual learning. Using that, the authors were able to go as deep as 1000 layers, without much overfitting issue.
+
+The second paper focuses on similar concept where the authors argue that deep neural network help improve the accuracy of the model. They do not introduce new paradigm. However, they do increase the depth of the network substantially than past CNN models.
+
