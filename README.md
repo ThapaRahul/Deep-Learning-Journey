@@ -82,3 +82,7 @@ The first paper we are going to be focusing on is on ResNet, which is relatively
 
 The second paper focuses on similar concept where the authors argue that deep neural network help improve the accuracy of the model. They do not introduce new paradigm. However, they do increase the depth of the network substantially than past CNN models.
 
+ResNet
+
+1. https://towardsdatascience.com/introduction-to-resnets-c0a830a288a4
+
