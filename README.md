@@ -84,5 +84,15 @@ The second paper focuses on similar concept where the authors argue that deep ne
 
 ResNet
 
+Youtube Videos: 
+
+1. https://www.youtube.com/watch?v=0tBPSxioIZE
+
+2. https://www.youtube.com/watch?v=lugkZaFj4x8
+
+3. https://www.youtube.com/watch?v=sAzL4XMke80
+
+Blog Posts:
+
 1. https://towardsdatascience.com/introduction-to-resnets-c0a830a288a4
 
