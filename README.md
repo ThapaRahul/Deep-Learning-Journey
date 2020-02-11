@@ -105,6 +105,8 @@ The first paper by Greff et. al. does a good job of explaining the basic structu
 
 The second paper by Bhanadanau et. al. is more application focused which introduces a basic approach of using RNN for machine translation. It is slightly easier to follow. 
 
+LSTM 
+
 Blogposts:
 
 1. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
