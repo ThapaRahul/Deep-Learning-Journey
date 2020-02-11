@@ -96,3 +96,13 @@ Blog Posts:
 
 1. https://towardsdatascience.com/introduction-to-resnets-c0a830a288a4
 
+
+### Week 4
+
+This week we will be switching our gear a little bit and working on understanding some relatively new Recurrent Neural Netowrk such as Long-Short Term Memory (LSTM). 
+
+The first paper by Greff et. al. does a good job of explaining the basic structuee of the LSTM network. It can be a little bit complicated to follow on the first try, however, re-reading and looking at some supplementary resources will help in better understanding of the network. 
+
+The second paper by Bhanadanau et. al. is more application focused which introduces a basic approach of using RNN for machine translation. It is slightly easier to follow. 
+
+
