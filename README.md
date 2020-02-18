@@ -127,6 +127,11 @@ Supplementary Paper:
 1. http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf
 
 
+### Week 5
+
+This week, we will be looking into two machine translation paper by Google. 
+
+
 
 
 
