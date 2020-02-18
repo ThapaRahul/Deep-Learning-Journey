@@ -129,9 +129,12 @@ Supplementary Paper:
 
 ### Week 5
 
-This week, we will be looking into two machine translation paper by Google. 
+This week, we will be looking into two machine translation paper by Google. Both of these are concerned with making a system that allows translation between different languages in production level. 
 
+The first paper by Wu et. al. addresses the issules with previous Neural Machine Translation (NMT) model such as computational expense and lack of robustness. Their model consists of a deep LSTM with 8 encoder and decoder layers using residual connections as well as attention connections. 
 
+The second paper by Johnson et. al. builds up on Wu et. al. in order to create a single multilingual system. Their solution requires no changes to the model architecture from a standard NMT system but instead introduces an artificial token at the beginning of the input sentence to specify the required target language. Their models can also learn to perform implicit bridging between language pairs never seen explicitly during training time which they call zero-shot translation.
 
+Here is a video of the talk at Stanford university by the author of Johnson et. al. 
 
-
+1. https://www.youtube.com/watch?v=nR74lBO5M3s
