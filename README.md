@@ -105,6 +105,10 @@ The first paper by Greff et. al. does a good job of explaining the basic structu
 
 The second paper by Bhanadanau et. al. is more application focused which introduces a basic approach of using RNN for machine translation. It is slightly easier to follow. 
 
+First, its a good idea to learn about how encoder and decoder works. Here is a video for that. 
+
+1. https://www.youtube.com/watch?v=bBBYPuVUnug&t=355s
+
 LSTM 
 
 Blogposts:
@@ -116,9 +120,13 @@ Youtube Videos:
 
 1. https://www.youtube.com/watch?v=WCUNPb-5EYI
 2. https://www.youtube.com/watch?v=6niqTuYFZLQ
+3. https://www.youtube.com/watch?v=QuELiw8tbx8&t=38s
 
 Supplementary Paper:
 
 1. http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf
+
+
+
 
 
