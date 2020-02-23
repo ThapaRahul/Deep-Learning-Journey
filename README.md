@@ -141,6 +141,9 @@ Here is a video of the talk at Stanford university by the author of Johnson et. 
 
 ### Week 6
 
+Video:
+1. https://www.youtube.com/watch?v=YPtMaUYDDvY
+
 Book:
 1. http://www.incompleteideas.net/book/RLbook2018.pdf
 2. https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
