@@ -138,3 +138,26 @@ The second paper by Johnson et. al. builds up on Wu et. al. in order to create a
 Here is a video of the talk at Stanford university by the author of Johnson et. al. 
 
 1. https://www.youtube.com/watch?v=nR74lBO5M3s
+
+### Week 6
+
+Book:
+1. http://www.incompleteideas.net/book/RLbook2018.pdf
+2. https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+Courses:
+1. https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
+2. http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+3. http://rail.eecs.berkeley.edu/deeprlcourse/
+
+Implementations
+1. https://github.com/dennybritz/reinforcement-learning
+
+Article
+1. https://www.alexirpan.com/2018/02/14/rl-hard.html
+
+Code 
+1. https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+Other Papers:
+1. http://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
