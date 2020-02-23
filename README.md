@@ -141,6 +141,8 @@ Here is a video of the talk at Stanford university by the author of Johnson et. 
 
 ### Week 6
 
+We go over the topic of Reinforcement Learning this week. It is one of the most exiting fields of ML today and has the potential to create most robust intelligent systems with a wide range of applications. The two papers we read combine CNNs and RNNs with reinforcement learning in the tasks involving video games but the general idea is applicable to real world practical domains as well through simulation. 
+
 Video:
 1. https://www.youtube.com/watch?v=YPtMaUYDDvY
 
