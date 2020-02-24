@@ -138,6 +138,8 @@ The second paper by Johnson et. al. builds up on Wu et. al. in order to create a
 Here is a video of the talk at Stanford university by the author of Johnson et. al. 
 
 1. https://www.youtube.com/watch?v=nR74lBO5M3s
+2. https://www.youtube.com/watch?v=6niqTuYFZLQ&t=3060s
+3. https://www.youtube.com/watch?v=nFTQ7kHQWtc
 
 ### Week 6
 
@@ -145,6 +147,10 @@ We go over the topic of Reinforcement Learning this week. It is one of the most 
 
 Video:
 1. https://www.youtube.com/watch?v=YPtMaUYDDvY
+2. https://www.youtube.com/watch?v=_h66BW-xNgk
+3. https://www.youtube.com/watch?v=lvoHnicueoE&fbclid=IwAR3Pcf8hr52P8s-bWl_K0JEAgEzLQBMCD17gw6wr80ulT5wgImwOk7TdxIc
+4. https://www.youtube.com/watch?v=zR11FLZ-O9M&fbclid=IwAR0RC5pjEj-VQ_eqfP4D7oFB_MH_2kOHATNr0bQq0kV2t4NUen4mnizDPss
+
 
 Book:
 1. http://www.incompleteideas.net/book/RLbook2018.pdf
