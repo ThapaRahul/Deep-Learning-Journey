@@ -177,3 +177,5 @@ Other Papers:
 This week we go over two papers related to Siamese(twins) NN and deep transfer learning. 
 
 1. https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
+2. https://sorenbouma.github.io/blog/oneshot/#disqus_thread
+3. https://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
