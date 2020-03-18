@@ -172,3 +172,8 @@ Code
 
 Other Papers:
 1. http://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
+
+### Week 8
+This week we go over two papers related to Siamese(twins) NN and deep transfer learning. 
+
+1. https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
