@@ -179,3 +179,19 @@ This week we go over two papers related to Siamese(twins) NN and deep transfer l
 1. https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
 2. https://sorenbouma.github.io/blog/oneshot/#disqus_thread
 3. https://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
+
+
+### Week 9
+
+GAN:
+
+Blog Posts
+
+1. https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
+
+Videos
+1. https://www.youtube.com/watch?v=Sw9r8CL98N0
+2. https://www.youtube.com/watch?v=9JpdAg6uMXs
+3. https://www.youtube.com/watch?v=HGYYEUSm-0Q
+4.https://www.youtube.com/watch?v=5WoItGTWV54
+5. https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=147s
