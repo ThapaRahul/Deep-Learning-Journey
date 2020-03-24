@@ -208,6 +208,9 @@ Understanding Transfer Learning
 
 
 ### Week 9
+This week, we will be looking into Generative Adversarial Nets (GAN) by Goodfellow et. al. and Troubling Trends in Machine Learning Scholarship by Lipton et. al. 
+
+GAN uses an adversarial process in order to generate the random data distribution that closely matches the distribution of true data. GAN has two models. The generative model G and the discriminative model D. The network architecture can be envisioned as a minmax two-player game. Competition in this game drives both teams (G and D) to improve their methods. The generative model is trained to maximize the probability of D making a mistake. 
 
 GAN:
 
