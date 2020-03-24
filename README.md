@@ -173,6 +173,21 @@ Code
 Other Papers:
 1. http://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 
+### Week 7
+
+This week, we will look at Spatial Transformer Networks by Jaderberg et. al. and Interactive Medical Image Segmentation by Wang et. al. Spatial transformer is particularly interesting in their ability to be easily insertable into existing CNN architectures. Such architecture can be learned in an end to end fashion without making any changes to the loss function. The spatial transformers results in models which learn invariance to translation, scale, rotation.  
+
+The second paper shows the use of CNN in medical image segmentation. The authors incorporate CNNs into a bounding boz and scribble based segmentation pipeline. They propose image specific fine tuning to make the model adaptive to a specific test image. They also propose a weighted loss function considering network and interaction-based uncertainity for the fine tuning. 
+
+Some Resources on Spatial Transformer Network:
+
+1. https://towardsdatascience.com/review-stn-spatial-transformer-network-image-classification-d3cbd98a70aa
+2. https://www.youtube.com/watch?v=6NOQC_fl1hQ
+
+An implementation of this in PyTorch
+
+1. https://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html
+
 ### Week 8
 This week we go over two papers related to Siamese(twins) NN and deep transfer learning. 
 
