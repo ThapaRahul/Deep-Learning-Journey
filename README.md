@@ -191,9 +191,20 @@ An implementation of this in PyTorch
 ### Week 8
 This week we go over two papers related to Siamese(twins) NN and deep transfer learning. 
 
+The Siamese NN is a one-shot learing network, in which the network learns to make correct predictions given only a single example of each new class. This network employes unique structure to naturally rank similarities between inputs. After tuning, this network capalitizes on powerful discriminative features to generalize the predictive power of the network. Sometimes, this network is also called twin network because it consists of two identical network which accepts distinct inputs but is joined by an energy function at the top. 
+
+In the second paper, the authors present a method of quantifying the transferability of features from each layer of a neural network, which reveals their generality or specificity. They showed that transferability of features decreases as the base and target dataset differ from each other. However, they conclude that transferring features is always better than using random features. 
+
+Some resources on Siamese NN
+
 1. https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
 2. https://sorenbouma.github.io/blog/oneshot/#disqus_thread
 3. https://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
+
+Understanding Transfer Learning
+
+1. https://www.youtube.com/watch?v=yofjFQddwHE
+2. https://www.youtube.com/watch?v=_2EHcpg52uU
 
 
 ### Week 9
