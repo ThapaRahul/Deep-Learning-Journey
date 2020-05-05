@@ -227,8 +227,9 @@ Videos
 
 
 **Note:**
-Starting this week. We are going to do things a little bit differently. All the authors of this repo are going to choose papers from vast array of topics in deep learning and they are going to review the paper themselves and upload it instead of each author writing a review for it. The goal really is, after having set a solid foundation of reading and reviewing literature by now, we want to give you exposer to the vast field of deep learning. Therefore, expect to see some different types of paper than the one we have been reading so far. Also, unlike past weeks, from now on, each week, we are going to upload 4 papers. This is going to be a lot of fun. So, hang tight and enjoy the ride...
+Starting this week. We are going to do things a little bit differently. All the authors of this repo are going to choose papers from vast array of topics in deep learning and they are going to review the paper themselves and upload it instead of each author writing a review for it. The goal really is, after having set a solid foundation of reading and reviewing literature by now, we want to give you exposer to the vast field of deep learning. Therefore, expect to see some different types of paper than the one we have been reading so far. However, most of the following papers will be application of the concepts we already learned before. Therefore, unlike past weeks, from now on, we will not be posting additional materials in the readme. We highly encourage you to use the skills your learned so far and try to find the relevant information yourselves.   
 
-### Week 10
+This is going to be a lot of fun. So, hang tight and enjoy the ride...
+
 
 
